@@ -17,7 +17,9 @@
   <img align="center" alt="Jenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jenni-Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+  <img align="center" alt="Jenni-Java" height="30" width="40" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/930209546645942316/930209702481117274/desenhoeu.jpeg">
+  
 </div>
 
 ##
