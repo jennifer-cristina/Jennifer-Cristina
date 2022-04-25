@@ -2,8 +2,9 @@
 ### Olá, Devs! 👋
 
 - 🎒 Cursando Desenvolvimento de sistemas no Senai Prof° Vicente Amato
-- 🌱 Estudando Programação orientada a objeto
+- 🌱 Programação orientada a objeto
 - 📚 Já conseguindo patinar em java, html e css
+- 📚 Adquirindo conhecimento em Banco de dados, Php, Kotlin e Javascript
 - 🏡 Morando em Itapevi - São Paulo
 
 <div align="center">
