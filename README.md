@@ -3,8 +3,7 @@
 
 - 🎒 Cursando Desenvolvimento de sistemas no Senai Prof° Vicente Amato
 - 🌱 Programação orientada a objeto
-- 📚 Já conseguindo patinar em java, html e css
-- 📚 Conhecimento em Banco de dados, Php, Kotlin e Javascript
+- 📚 Conhecimento em Banco de dados, Php, Kotlin e Javascript, React, React-native, Java, Html, Css..
 - 🏡 Morando em Itapevi - São Paulo
 
 <div align="center">
