@@ -1,7 +1,7 @@
 ## Jennifer Cristina
 ### Olá, Devs! 👋
 
-- 🎒 Cursando Desenvolvimento de sistemas no Senai Prof° Vicente Amato
+- 🎒 Formada em Desenvolvimento de sistemas pelo Senai Prof° Vicente Amato
 - 🌱 Programação orientada a objeto
 - 📚 Conhecimento em Banco de dados, Php, Kotlin e Javascript, React, React-native, Java, Html, Css..
 - 🏡 Morando em Itapevi - São Paulo
