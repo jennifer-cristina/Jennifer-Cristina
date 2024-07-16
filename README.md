@@ -21,7 +21,8 @@
   <img align="center" alt="Jenni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Jenni-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="right" alt="Jenni-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/930209546645942316/930209702481117274/desenhoeu.jpeg">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 </div>
 
 ##
