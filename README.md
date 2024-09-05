@@ -4,7 +4,6 @@
 - 🎒 Formada em Desenvolvimento de sistemas pelo Senai Prof° Vicente Amato
 - 🌱 Programação orientada a objeto
 - 📚 Conhecimento em Banco de dados, PHP, Angular, Ionic, Kotlin, Javascript, React, React-native, Java, Html, Css..
-- 🏡 Morando em Itapevi - São Paulo
 
 <div align="center">
   <a href="https://github.com/jennifer-cristina">
